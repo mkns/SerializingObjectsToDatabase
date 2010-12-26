@@ -1,0 +1,3 @@
+Simple app showing how to create a bunch of objects, serialize them
+and stick them in a database, and later retrieve one and make sure we
+can read the data back out again.
